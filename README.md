@@ -1,2 +1,2 @@
-# Fox
+# Foxy
 An Arch Based Distro
